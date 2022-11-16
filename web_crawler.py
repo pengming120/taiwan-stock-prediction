@@ -1,3 +1,4 @@
+# 爬台灣證券交易所資料
 import requests
 import json
 import csv
